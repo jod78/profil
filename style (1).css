@@ -1,0 +1,39 @@
+/* General Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f4f4f4;
+  color: #333;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Header Styling */
+h1 {
+  color: red;
+  font-size: 2.5em;
+  margin-bottom: 10px;
+}
+
+/* Paragraph Styling */
+p {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+
+/* Image Styling */
+img {
+  max-width: 100%;
+  height: auto;
+  border: 3px solid #ccc;
+  border-radius: 10px;
+  margin: 20px 0;
+}
+
+/* Add Additional Classes or Styling as Needed */
